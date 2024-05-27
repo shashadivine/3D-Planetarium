@@ -1,0 +1,50 @@
+# Apple ModelI/O MTL File: venus.mtl
+
+newmtl model_0
+	map_Kd model_0-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic model_0-metallic.png
+	specularTint 0
+	map_roughness model_0-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl model_1
+	map_Kd model_1-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic model_1-metallic.png
+	specularTint 0
+	map_roughness model_1-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+
+newmtl model_2
+	map_Kd model_2-color.png
+	Kd 1 1 1
+	Ka 0 0 0
+	Ks 0
+	ao 0
+	subsurface 0
+	map_metallic model_2-metallic.png
+	specularTint 0
+	map_roughness model_2-roughness.png
+	anisotropicRotation 0
+	sheen 0.05
+	sheenTint 0
+	clearCoat 0
+	clearCoatGloss 0
+

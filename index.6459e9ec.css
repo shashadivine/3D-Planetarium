@@ -1,0 +1,76 @@
+canvas{
+  position:fixed;
+  top:0;
+  left:0;
+}
+
+main{
+  width:100%;
+  height:100%;
+  position:absolute;
+}
+
+body{
+  color:#000;
+  font-family:Arial,sans-serif;
+}
+  
+.card{ 
+  background:#2e003999 !important; 
+  border:none;
+  justify-content:center;
+  align-items:center;
+  width:800px;
+  display:flex;
+}
+  
+.card-title{
+  text-align:center;
+  width:100%;
+  font-size:40px;
+  font-weight:700;
+}
+  
+.card-body{
+  color:#fff;
+}
+
+.card.intro{
+  flex-direction:column;
+  align-content:center;
+  max-width:800px;
+  margin-top:160px;
+  margin-left:300px;
+  display:flex;
+}
+
+.card.planet-right{
+  width:700px;
+  margin-left:700px;
+}
+
+.card.planet-left{
+  width:700px;
+}
+
+.card-text{
+  align-content:center;
+  align-self:center;
+  display:flex
+}
+
+.btn-light{
+  color:#fff !important;
+  background-color:#001e37 !important;
+  border:none !important;
+  margin-left:280px;
+}
+
+.space-top{
+  margin-top:150px;
+}
+
+.space{
+  margin-top:100px;
+}
+/*# sourceMappingURL=index.6459e9ec.css.map */
