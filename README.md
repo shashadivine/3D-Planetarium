@@ -7,7 +7,7 @@ With a blend of HTML, CSS, JavaScript, and Bootstrap, these planets are brought 
 
 # RUNNING THE PROGRAM
 Since theh program is quite large and complex, the program may take a few seconds to fully load. For the optimal experience, we recommend running the program on a laptop or desktop.
-Access it on Github pages: 
+Access it on Github pages: https://shashadivine.github.io/3D-Planetarium/
 or
 Execute this program through your IDE:
 1. Download or clone the repository to your local machine
